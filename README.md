@@ -1,2 +1,6 @@
 # hello-world
-Lolo's first repository
+
+Hi there!
+
+My name is Lolo.
+Talk to you later :)
