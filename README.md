@@ -3,4 +3,4 @@
 Hi there!
 
 My name is Lolo.
-Talk to you later :)
+Nice to meet you.
